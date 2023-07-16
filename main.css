@@ -271,3 +271,9 @@ label {
     vertical-align: middle;
     word-break: keep-all;
 }
+
+.doc-container {
+    padding: 0 2em;
+    margin: auto;
+    word-break: keep-all;
+}
